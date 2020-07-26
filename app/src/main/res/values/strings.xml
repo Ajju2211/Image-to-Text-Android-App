@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextRecognitionTranslateApp</string>
+    <string name="gallery">Gallery</string>
+    <string name="capture_btn">Capture</string>
+</resources>
